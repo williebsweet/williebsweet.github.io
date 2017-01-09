@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# Cactus Theme for Jekyll
 
-You can use the [editor on GitHub](https://github.com/williebsweet/williebsweet.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a port of [Cactus](https://github.com/koenbok/Cactus)'s default theme for Jekyll.
+Feel free to fork, change, modify and re-use it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How to use it
 
-### Markdown
+Simply clone this repository, and then run `jekyll serve` inside the directory.
+This theme is fully compliant with GH Pages and their dependencies.
+For extra info: [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/#keeping-jekyll-up-to-date).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Cactus theme includes:
 
-```markdown
-Syntax highlighted code block
+* Pagination
+* Rss feed
+* Google Analytics Tracking code
+* Code Syntax Highlight
+* Author's profile with picture header
+* Twitter/Facebook share buttons
+* Archive posts list under each post
+* Disqus comments
 
-# Header 1
-## Header 2
-### Header 3
+## Screenshots
 
-- Bulleted
-- List
+![index page](https://raw.githubusercontent.com/nickbalestra/kactus/master/assets/images/Kactus-theme-index.png)
+![post page](https://raw.githubusercontent.com/nickbalestra/kactus/master/assets/images/Kactus-theme-post.png)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Thanks
+Most of the work has been already done by the [Cactus for mac authors](https://github.com/koenbok/Cactus/blob/master/AUTHORS), I've just ported their default theme to Jekyll.
+I've also added few things specific to Jekyll and some minor style changes.
 
-[Link](url) and ![Image](src)
-```
+## Copyright & License
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Copyright (c) 2015 [Cactus Authors](https://github.com/koenbok/Cactus/blob/master/AUTHORS) -  Released under the MIT License.
 
-### Jekyll Themes
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/williebsweet/williebsweet.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
