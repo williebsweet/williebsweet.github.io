@@ -4,7 +4,7 @@ permalink: about/
 profile: true
 ---
 
-I'm Will Sweet, the co-founder and CEO of [Shef][Shef] an app that optimizes recipe ingredients for minimal waste - saving home cooks time and money.
+I'm Will Sweet, the co-founder and CEO of [Shef][Shef], an app that optimizes recipe ingredients for minimal waste - saving home cooks time and money.
 
 I previously worked at Houlihan Lokey as a financial analyst and co-founded FlameTech, a patent-pending safety and convenience system for gas grills. In 2015, FlameTech won Georgia Tech's annual InVenture Prize, affectionately nicknamed "American Idol for Nerds."
 
