@@ -182,12 +182,8 @@ a,
 	transition: all 0.15s ease;
 }
 
-li	{ margin:0; padding:0; list-style-type: inherit;}
-
-/*
 ul 	{ margin:0; padding:0; }
-li	{ list-style-type:circle; list-style-position:inside; }
-*/
+li	{ list-style-type:armenian; list-style-position:inside; }
 
 /* Line Height */
 #post-body, p { line-height:1.7; }
