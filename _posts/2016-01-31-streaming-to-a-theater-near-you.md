@@ -7,10 +7,8 @@ tags: business, film, Netflix, Amazon
 
 ![alt text](https://cdn-images-1.medium.com/max/800/1*UrwZ94u3As8-OF245FmyTQ.jpeg "Theater")
 
-I recently read Fortune’s [“How to Make a Profit in the New Hollywood,”](http://fortune.com/hollywood-film-financing/) which interestingly explored several trends in the movie industry, including the entrance of streaming services such as Netflix and Amazon into the world of original feature film content.
-
+I recently read Fortune’s [“How to Make a Profit in the New Hollywood,”](http://fortune.com/hollywood-film-financing/) which interestingly explored several trends in the movie industry, including the entrance of streaming services such as Netflix and Amazon into the world of original feature film content.<center><b>⋅ ⋅ ⋅</b></center>
 Netflix and Amazon are no strangers to original content. Their ballooning subscriber numbers and collective Emmy and Golden Globe nomination tallies over the last several years can attest to that fact. But up to this point, their expertise has been in the realm of television — an industry structured vastly different from that of feature films, especially in terms of distribution.
-
 Keeping this in mind, one statement in the Fortune article really stuck out to me. In the closing paragraph of the piece, Fortune mentions that “simultaneous theater and home release has long been a no-no in Hollywood, with theater chains denouncing it and studios fearing it will cannibalize revenue,” adding that, “neither Netflix nor Amazon has figured out how to make the new economics work.”
 
 To put this in perspective, Netflix’s first attempt to crack the feature film distribution model was to simultaneously release its first film, Beasts of No Nation, both online and in theaters. Ultimately, the film showed in 31 theaters and brought in less $91,000 in ticket sales — enough to make it eligible for Oscar nominations (though it didn’t get any) but not enough to make it a very compelling business model moving forward.
