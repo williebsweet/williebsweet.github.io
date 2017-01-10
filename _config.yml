@@ -1,6 +1,6 @@
-name: Will Sweet
-description: Exploring catalysts of technology, business, and behavior
-meta_description: "Last mile problems and catalysts of technology, business, and behavior"
+name: Your New Jekyll Site
+description: Blogging about stuffs
+meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 aboutPage: true
 
@@ -10,15 +10,15 @@ highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 20
 baseurl: /
-domain_name: 'http://williebsweet.github.io' #http://yourblog-domain.com
+domain_name: 'http://yourblog-domain.com'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://williebsweet.github.io' #http://your-blog-url.example.com
-author:         'Will Sweet'
-authorTwitter:  'williebsweet'
+url:            'http://your-blog-url.example.com'
+author:         'Your Name'
+authorTwitter:  'YourTwitterUsername'
 
 permalink:       /:year/:title/
 
