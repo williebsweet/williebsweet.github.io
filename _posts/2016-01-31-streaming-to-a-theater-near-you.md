@@ -23,9 +23,9 @@ This is a radically different approach from the way movies are currently distrib
 
 Ticket sales would then take place one of two ways:
 
-    1. Current streaming subscribers could claim free tickets to see the film in theaters — the only limit to the number of tickets the subscriber could claim would be the number of screens his or her subscription allows.
+  1. Current streaming subscribers could claim free tickets to see the film in theaters — the only limit to the number of tickets the subscriber could claim would be the number of screens his or her subscription allows.
 
-    2. Non-subscribers as well as anyone else could purchase tickets in the traditional sense — that ticket revenue would be split at a pre-negotiated rate between the streaming service and the theater. It’s worth noting that tickets for these films could have the potential to be sold for less than the average ticket price of studio movies, since the money would not have to cover any production costs and would automatically be profit for the streaming services.
+  2. Non-subscribers as well as anyone else could purchase tickets in the traditional sense — that ticket revenue would be split at a pre-negotiated rate between the streaming service and the theater. It’s worth noting that tickets for these films could have the potential to be sold for less than the average ticket price of studio movies, since the money would not have to cover any production costs and would automatically be profit for the streaming services.
 
 
 It’s not just the mechanics of the model that work, but it also acts as a value add for both parties:
