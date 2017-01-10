@@ -184,7 +184,7 @@ a,
 
 ul 	{ margin: 10px; }
 ol	{ margin: 10px; }
-li	{ list-style-type: inherit; list-style-position:inside; padding-bottom: 20px }
+li	{ list-style-type: inherit; list-style-position: outside; padding-bottom: 20px }
 
 /* Line Height */
 #post-body, p { line-height:1.7; }
