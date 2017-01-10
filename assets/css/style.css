@@ -182,7 +182,7 @@ a,
 	transition: all 0.15s ease;
 }
 
-ol.li	{ margin:0; padding:0; list-style-type: inherit;}
+li	{ margin:0; padding:0; list-style-type: inherit;}
 
 /*
 ul 	{ margin:0; padding:0; }
