@@ -21,15 +21,15 @@ The solution: *give theaters the content for free*.
 
 This is a radically different approach from the way movies are currently distributed. In the traditional studio distribution model, studios work with distributors to lease their movies to theaters in order to recoup the cost of the film’s production. But streaming services don’t have to follow this model because they cover production costs through subscription fees — freeing them up to pursue a new approach.
 
-
 Ticket sales would then take place one of two ways:
+
 
 1. Current streaming subscribers could claim free tickets to see the film in theaters — the only limit to the number of tickets the subscriber could claim would be the number of screens his or her subscription allows.
 
 2. Non-subscribers as well as anyone else could purchase tickets in the traditional sense — that ticket revenue would be split at a pre-negotiated rate between the streaming service and the theater. It’s worth noting that tickets for these films could have the potential to be sold for less than the average ticket price of studio movies, since the money would not have to cover any production costs and would automatically be profit for the streaming services.
 
-
 It’s not just the mechanics of the model that work, but it also acts as a value add for both parties:
+
 
 * Theaters will still be able to benefit from the one thing that has kept movie theaters in business throughout years of declining ticket sales — concessions. In the traditional studio model where the distributor leases the film to the theater, tickets are often sold at a loss in order to get people in the door so that theaters can convert that traffic into profit through high margin concession sales. In the proposed model, a free movie or reduced ticket price would get more people in the door and allow the theaters to convert on concession sales without having to take the customary losses on ticket sales (and even giving them a cut of the revenue for non-subscriber ticket sales).
 
