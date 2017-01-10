@@ -7,7 +7,7 @@ tags: business, film, Netflix, Amazon
 
 ![alt text](https://cdn-images-1.medium.com/max/800/1*UrwZ94u3As8-OF245FmyTQ.jpeg "Theater")
 
-I recently read Fortune’s [“How to Make a Profit in the New Hollywood,”](http://fortune.com/hollywood-film-financing/) which interestingly explored several trends in the movie industry, including the entrance of streaming services such as Netflix and Amazon into the world of original feature film content.<center><b>⋅ ⋅ ⋅</b></center>
+I recently read Fortune’s [“How to Make a Profit in the New Hollywood,”](http://fortune.com/hollywood-film-financing/) which interestingly explored several trends in the movie industry, including the entrance of streaming services such as Netflix and Amazon into the world of original feature film content.
 
 Netflix and Amazon are no strangers to original content. Their ballooning subscriber numbers and collective Emmy and Golden Globe nomination tallies over the last several years can attest to that fact. But up to this point, their expertise has been in the realm of television — an industry structured vastly different from that of feature films, especially in terms of distribution.
 
@@ -28,7 +28,6 @@ Ticket sales would then take place one of two ways:
 2. Non-subscribers as well as anyone else could purchase tickets in the traditional sense — that ticket revenue would be split at a pre-negotiated rate between the streaming service and the theater. It’s worth noting that tickets for these films could have the potential to be sold for less than the average ticket price of studio movies, since the money would not have to cover any production costs and would automatically be profit for the streaming services.
 
 It’s not just the mechanics of the model that work, but it also acts as a value add for both parties:
-
 
 * Theaters will still be able to benefit from the one thing that has kept movie theaters in business throughout years of declining ticket sales — concessions. In the traditional studio model where the distributor leases the film to the theater, tickets are often sold at a loss in order to get people in the door so that theaters can convert that traffic into profit through high margin concession sales. In the proposed model, a free movie or reduced ticket price would get more people in the door and allow the theaters to convert on concession sales without having to take the customary losses on ticket sales (and even giving them a cut of the revenue for non-subscriber ticket sales).
 
