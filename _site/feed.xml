@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Will Sweet</title>
+    <description>Exploring catalysts of technology, business, and behavior</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>A Draft Post</title>
+        
+        
+          <description>&lt;p&gt;Drafts are posts without a date. They’re posts you’re still working on and don’t want to publish yet. To get up and running with drafts, check the _drafts folder in the site’s root.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 30 Aug 2016 14:00:16 -0400</pubDate>
+        <link>http://localhost:4000/2016/a-draft-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/a-draft-post/</guid>
+      </item>
+    
+      <item>
+        <title>Streaming to a Theater Near You</title>
+        
+        
+          <description>&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*UrwZ94u3As8-OF245FmyTQ.jpeg&quot; alt=&quot;alt text&quot; title=&quot;Theater&quot; /&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 31 Jan 2016 05:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2016/streaming-to-a-theater-near-you/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/streaming-to-a-theater-near-you/</guid>
+      </item>
+    
+      <item>
+        <title>The Last Mile</title>
+        
+        
+          <description>&lt;p&gt;The term “Last Mile” has been used to describe the final leg of product supply chains and telecommunications networks that deliver products or services to consumers. In both instances, the ultimate beneficiaries aren’t able to realize the value of what is being delivered until the gap between users and suppliers is filled. It is a distribution problem. And one that is often the bottleneck of both supply chains and networks.&lt;center&gt;&lt;b&gt;⋅ ⋅ ⋅&lt;/b&gt;&lt;/center&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 31 Jan 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2016/the-last-mile/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/the-last-mile/</guid>
+      </item>
+    
+  </channel>
+</rss>
