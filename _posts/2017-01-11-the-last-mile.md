@@ -1,7 +1,7 @@
 ---
 title:  "The Last Mile"
 date:   2017-01-11 12:02:00
-description: Catalyst of technology, business, and behavior
+description: Catalysts of technology, business, and behavior
 tags: last mile problem technology business behavior
 ---
 
