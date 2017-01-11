@@ -1,7 +1,7 @@
 ---
 title:  "Streaming to a Theater Near You"
 date:   2016-01-31 10:00:00
-description: Expanding the business model
+description: Expanding the on-demand business model
 tags: business film Netflix Amazon
 ---
 
