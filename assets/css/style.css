@@ -652,7 +652,7 @@ h2.month {
 	#wrapper { padding:20px 20px 20px 20px;}
 	#header { margin-bottom: 60px; border-bottom: 1px solid #eee; }
 	.post { margin: 40px 0; }
-	#footer { margin-top: 60px; }
+	#footer { margin-top: 50px; }
 	#sub-footer { margin-top: 5px; }
 
 	#post-list, #archive-list { margin-top: 0; }
