@@ -11,7 +11,7 @@ gems: [jekyll-paginate]
 paginate: 20
 baseurl: /
 domain_name: 'http://williebsweet.github.io'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-90251733-1'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
