@@ -7,16 +7,16 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>The Last Mile</title>
+        <title>The Moment Economy</title>
         
         
-          <description>&lt;p&gt;The term “Last Mile” has been used to describe the final leg of product supply chains and telecommunications networks that deliver products or services to consumers. In both instances, the ultimate beneficiaries aren’t able to realize the value of what is being delivered until the gap between users and suppliers is filled. It is a distribution problem. And one that is often the bottleneck of both supply chains and networks.&lt;center&gt;&lt;b&gt;⋅ ⋅ ⋅&lt;/b&gt;&lt;/center&gt;&lt;/p&gt;
+          <description>&lt;h3 id=&quot;centerpeople-consume-momentscentercenterb--bcenter&quot;&gt;&lt;center&gt;People consume moments.&lt;/center&gt;&lt;center&gt;&lt;b&gt;⋅ ⋅ ⋅&lt;/b&gt;&lt;/center&gt;&lt;/h3&gt;
 
 </description>
         
-        <pubDate>Wed, 11 Jan 2017 07:02:00 -0500</pubDate>
-        <link>http://localhost:4000/2017/the-last-mile/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/the-last-mile/</guid>
+        <pubDate>Thu, 09 Mar 2017 14:26:23 -0500</pubDate>
+        <link>http://localhost:4000/2017/the-moment-economy/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/the-moment-economy/</guid>
       </item>
     
       <item>
@@ -27,9 +27,22 @@
 
 </description>
         
-        <pubDate>Tue, 30 Aug 2016 14:00:16 -0400</pubDate>
-        <link>http://localhost:4000/2016/a-draft-post/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/a-draft-post/</guid>
+        <pubDate>Wed, 08 Mar 2017 14:19:47 -0500</pubDate>
+        <link>http://localhost:4000/2017/a-draft-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/a-draft-post/</guid>
+      </item>
+    
+      <item>
+        <title>The Last Mile</title>
+        
+        
+          <description>&lt;p&gt;The term “Last Mile” has been used to describe the final leg of product supply chains and telecommunications networks that deliver products or services to consumers. In both instances, the ultimate beneficiaries aren’t able to realize the value of what is being delivered until the gap between users and suppliers is filled. It is a distribution problem. And one that is often the bottleneck of both supply chains and networks.&lt;center&gt;&lt;b&gt;⋅ ⋅ ⋅&lt;/b&gt;&lt;/center&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 11 Jan 2017 07:02:00 -0500</pubDate>
+        <link>http://localhost:4000/2017/the-last-mile/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/the-last-mile/</guid>
       </item>
     
       <item>

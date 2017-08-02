@@ -10,5 +10,14 @@ To preview your site with drafts, simply run **`jekyll serve`** or **`jekyll bui
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
 
+cd directory/directory/file
+git status
+git add .
+git commit -m "commit message here"
+git push
+
+git serve #view on localhost
+git serve --drafts #view drafts on localhost
+
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
