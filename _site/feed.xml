@@ -3,8 +3,8 @@
   <channel>
     <title>Will Sweet</title>
     <description>Exploring catalysts of technology, business, and behavior</description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://williebsweet.github.io</link>
+    <atom:link href="http://williebsweet.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>The Last Mile</title>
@@ -15,8 +15,8 @@
 </description>
         
         <pubDate>Wed, 11 Jan 2017 12:02:00 +0000</pubDate>
-        <link>http://localhost:4000/2017/the-last-mile/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/the-last-mile/</guid>
+        <link>http://williebsweet.github.io/2017/the-last-mile/</link>
+        <guid isPermaLink="true">http://williebsweet.github.io/2017/the-last-mile/</guid>
       </item>
     
       <item>
@@ -28,8 +28,8 @@
 </description>
         
         <pubDate>Sun, 31 Jan 2016 10:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2016/streaming-to-a-theater-near-you/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/streaming-to-a-theater-near-you/</guid>
+        <link>http://williebsweet.github.io/2016/streaming-to-a-theater-near-you/</link>
+        <guid isPermaLink="true">http://williebsweet.github.io/2016/streaming-to-a-theater-near-you/</guid>
       </item>
     
   </channel>
