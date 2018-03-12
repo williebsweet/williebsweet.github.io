@@ -3,8 +3,112 @@
   <channel>
     <title>Will Sweet</title>
     <description>Exploring catalysts of technology, business, and behavior</description>
-    <link>http://williebsweet.github.io</link>
-    <atom:link href="http://williebsweet.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>New Founder Insight: The Idea</title>
+        
+        
+          <description>&lt;p&gt;Starting a company is hard.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 23 Oct 2017 11:03:30 -0400</pubDate>
+        <link>http://localhost:4000/2017/the-idea/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/the-idea/</guid>
+      </item>
+    
+      <item>
+        <title>New Founder Insight: The Idea</title>
+        
+        
+          <description>&lt;h4 id=&quot;1-insight-has-to-come-from-a-genuine-problem-that-you-experience&quot;&gt;1. Insight has to come from a genuine problem that you experience.&lt;/h4&gt;
+
+</description>
+        
+        <pubDate>Mon, 23 Oct 2017 10:54:00 -0400</pubDate>
+        <link>http://localhost:4000/2017/the-idea-copy-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/the-idea-copy-2/</guid>
+      </item>
+    
+      <item>
+        <title>The Theory of Consolidating Demand</title>
+        
+        
+          <description>&lt;p&gt;Demand&lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 11 Oct 2017 11:05:08 -0400</pubDate>
+        <link>http://localhost:4000/2017/theory-of-consolidating-demand/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/theory-of-consolidating-demand/</guid>
+      </item>
+    
+      <item>
+        <title>Future Posts</title>
+        
+        
+          <description>&lt;p&gt;How to Listen to Advice - understand the framework from which the advisor speaks (why are they saying what they are saying) and then reframe it to apply to you&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 17 Sep 2017 14:41:54 -0400</pubDate>
+        <link>http://localhost:4000/2017/post_ideas/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/post_ideas/</guid>
+      </item>
+    
+      <item>
+        <title>New Founder Insight: Advice</title>
+        
+        
+          <description>
+</description>
+        
+        <pubDate>Sun, 17 Sep 2017 14:26:52 -0400</pubDate>
+        <link>http://localhost:4000/2017/advice/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/advice/</guid>
+      </item>
+    
+      <item>
+        <title>New Founder Insight: The Idea</title>
+        
+        
+          <description>&lt;p&gt;&lt;em&gt;tl;dr&lt;/em&gt; - The best ideas come from your own genuine problems. If that idea is contrarian to the way the world currently works, then you are more than likely on to something.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Sometimes prevailing wisdom seems to dictate that the success or failure of a startup is defined at the outset, with the initial idea.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 17 Sep 2017 13:10:30 -0400</pubDate>
+        <link>http://localhost:4000/2017/the-idea-copy/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/the-idea-copy/</guid>
+      </item>
+    
+      <item>
+        <title>The Moment Economy</title>
+        
+        
+          <description>&lt;h3 id=&quot;people-consume-moments--&quot;&gt;&lt;center&gt;People consume moments.&lt;/center&gt;&lt;center&gt;&lt;b&gt;⋅ ⋅ ⋅&lt;/b&gt;&lt;/center&gt;&lt;/h3&gt;
+
+</description>
+        
+        <pubDate>Fri, 15 Sep 2017 10:34:55 -0400</pubDate>
+        <link>http://localhost:4000/2017/the-moment-economy/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/the-moment-economy/</guid>
+      </item>
+    
+      <item>
+        <title>A Draft Post</title>
+        
+        
+          <description>&lt;p&gt;Drafts are posts without a date. They’re posts you’re still working on and don’t want to publish yet. To get up and running with drafts, check the _drafts folder in the site’s root.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 08 Mar 2017 14:19:47 -0500</pubDate>
+        <link>http://localhost:4000/2017/a-draft-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/a-draft-post/</guid>
+      </item>
     
       <item>
         <title>The Last Mile</title>
@@ -15,8 +119,8 @@
 </description>
         
         <pubDate>Wed, 11 Jan 2017 12:02:00 +0000</pubDate>
-        <link>http://williebsweet.github.io/2017/the-last-mile/</link>
-        <guid isPermaLink="true">http://williebsweet.github.io/2017/the-last-mile/</guid>
+        <link>http://localhost:4000/2017/the-last-mile/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/the-last-mile/</guid>
       </item>
     
       <item>
@@ -28,8 +132,8 @@
 </description>
         
         <pubDate>Sun, 31 Jan 2016 10:00:00 +0000</pubDate>
-        <link>http://williebsweet.github.io/2016/streaming-to-a-theater-near-you/</link>
-        <guid isPermaLink="true">http://williebsweet.github.io/2016/streaming-to-a-theater-near-you/</guid>
+        <link>http://localhost:4000/2016/streaming-to-a-theater-near-you/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/streaming-to-a-theater-near-you/</guid>
       </item>
     
   </channel>
