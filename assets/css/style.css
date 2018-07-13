@@ -259,6 +259,13 @@ em, i { font-style: italic; }
 	  color: #111;
 }
 
+.post h2.page_description {
+	/*font: italic 22px/1.3em Georgia,serif;*/
+	font: normal 13px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
+	margin: -5px 0 15px 0;
+	color: #808080;
+	  font-size: 13px;
+}
 
 .post h2.headline {
 	/*font: italic 22px/1.3em Georgia,serif;*/
@@ -269,17 +276,6 @@ em, i { font-style: italic; }
 	  text-transform: uppercase;
 	  letter-spacing: 2px;
 	  /*margin-top: 15px;*/
-	  display: inline-block;
-}
-
-.post h2.page_description {
-	/*font: italic 22px/1.3em Georgia,serif;*/
-	font: normal 13px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
-	margin: -5px 0 15px 0;
-	color: #808080;
-	  font-size: 13px;
-	  text-transform: uppercase;
-	  letter-spacing: 2px;
 	  display: inline-block;
 }
 
