@@ -4,13 +4,13 @@ permalink: about/
 profile: true
 ---
 
-My name is Will Sweet. I'm the Founder of [Shef][Shef], an efficient meal planning app for home cooks.
+My name is Will Sweet. I'm the Founder of [Shef][Shef], an efficient meal planning app for home cooks, and I'm currently pursuing my Masters in Computational Analytics at Georgia Tech (expected August 2018).
 
 This site features my thoughts on business, strategy, technology and behavior, as well as my experiences as a founder and a look at some of my projects. If anything I write interests you, reach out to me through twitter at the link below.<center><b>⋅ ⋅ ⋅</b></center>
 
 Favorite Books of Late: [Ready Player One][Ready Player One], [Originals][Originals], [Work Rules!][Work Rules!], [Shoe Dog][Shoe Dog], [Steve Jobs][Steve Jobs], [In the Plex][In the Plex], and [The Everything Store][The Everything Store].
 
-Favorite Podcasts: [Exponent][Exponent], [The Tim Ferriss Show][The Tim Ferriss Show], [Acquired][Acquired], [Masters of Scale][Masters of Scale], [How I Built This][How I Built This], [How to Start a Startup][How to Start a Startup], [Startup School Radio][Startup School Radio], and the [a16z Podcast][a16z Podcast].
+Favorite Podcasts of Late: [Exponent][Exponent], [The Tim Ferriss Show][The Tim Ferriss Show], [Acquired][Acquired], [Masters of Scale][Masters of Scale], [How I Built This][How I Built This], [How to Start a Startup][How to Start a Startup], [Startup School Radio][Startup School Radio], and the [a16z Podcast][a16z Podcast].
 
 *Disclaimer: For better or worse, all thoughts are my own.*
 
