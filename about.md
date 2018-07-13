@@ -6,7 +6,7 @@ profile: true
 
 My name is Will Sweet. I'm the Founder of [Shef][Shef], an efficient meal planning app for home cooks, and I'm currently pursuing my Masters in Computational Analytics at Georgia Tech (expected August 2018).
 
-This site features my thoughts on business, strategy, technology and behavior, as well as my experiences as a founder and a look at some of my projects. If anything I write interests you, reach out to me through twitter at the link below.<center><b>⋅ ⋅ ⋅</b></center>
+This site features my thoughts on business and technology, as well as a look at some of my projects. If anything I write interests you, reach out to me through twitter at the link below.<center><b>⋅ ⋅ ⋅</b></center>
 
 Favorite Books of Late: [Ready Player One][Ready Player One], [Originals][Originals], [Work Rules!][Work Rules!], [Shoe Dog][Shoe Dog], [Steve Jobs][Steve Jobs], [In the Plex][In the Plex], and [The Everything Store][The Everything Store].
 
