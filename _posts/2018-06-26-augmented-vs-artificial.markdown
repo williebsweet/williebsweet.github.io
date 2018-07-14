@@ -1,5 +1,5 @@
 ---
-title: "Augmented vs. Artificial Intelligence"
+title: "Artificial vs. Augmented Intelligence"
 description: Thinking in markets
 date: 2018-06-26
 ---
