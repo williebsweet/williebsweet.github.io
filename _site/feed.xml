@@ -3,11 +3,11 @@
   <channel>
     <title>Will Sweet</title>
     <description>Exploring catalysts of technology, business, and behavior</description>
-    <link>http://williebsweet.github.io</link>
-    <atom:link href="http://williebsweet.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Augmented vs. Artificial Intelligence</title>
+        <title>Artificial vs. Augmented Intelligence</title>
         
         
           <description>&lt;p&gt;While the underlying technologies are much the same, the difference between Artificial Intelligence and Augmented Intelligence can be seen in their application and scope of ambition.&lt;/p&gt;
@@ -15,8 +15,8 @@
 </description>
         
         <pubDate>Tue, 26 Jun 2018 00:00:00 -0400</pubDate>
-        <link>http://williebsweet.github.io/2018/augmented-vs-artificial/</link>
-        <guid isPermaLink="true">http://williebsweet.github.io/2018/augmented-vs-artificial/</guid>
+        <link>http://localhost:4000/2018/augmented-vs-artificial/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/augmented-vs-artificial/</guid>
       </item>
     
       <item>
@@ -28,8 +28,8 @@
 </description>
         
         <pubDate>Wed, 11 Jan 2017 12:02:00 +0000</pubDate>
-        <link>http://williebsweet.github.io/2017/the-last-mile/</link>
-        <guid isPermaLink="true">http://williebsweet.github.io/2017/the-last-mile/</guid>
+        <link>http://localhost:4000/2017/the-last-mile/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/the-last-mile/</guid>
       </item>
     
       <item>
@@ -41,8 +41,8 @@
 </description>
         
         <pubDate>Sun, 31 Jan 2016 10:00:00 +0000</pubDate>
-        <link>http://williebsweet.github.io/2016/streaming-to-a-theater-near-you/</link>
-        <guid isPermaLink="true">http://williebsweet.github.io/2016/streaming-to-a-theater-near-you/</guid>
+        <link>http://localhost:4000/2016/streaming-to-a-theater-near-you/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/streaming-to-a-theater-near-you/</guid>
       </item>
     
   </channel>
